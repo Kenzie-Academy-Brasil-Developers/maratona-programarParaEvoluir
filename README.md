@@ -1,6 +1,6 @@
 # Maratona Kenzie => Programar para Evoluir
 
-Projeto desenvolvido para o evento Programar para Evoluir no dia 25 de agosto de 2022.
+Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de 2022.
 
 ## Ferramentas
 
