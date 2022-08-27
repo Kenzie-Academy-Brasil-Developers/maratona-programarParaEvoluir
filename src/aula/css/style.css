@@ -1,0 +1,58 @@
+h1 {
+    color:cadetblue;
+    background-color: lightgoldenrodyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 50px;
+    padding: 20px;
+}
+
+#desejo2022 {
+    font-size: 50px;
+}
+
+#personagem1 {
+
+}
+
+.personagem-secundario {
+
+}
+/* 
+div {
+    width: 300px;
+    height: 300px;
+    background-color: pink;
+} */
+
+span {
+    display: inline-block;
+    background-color: coral;
+    width: 100px;
+    height: 50px;
+}
+/* 
+span, a {
+   display: block; 
+} */
+
+.personagens-box {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+
+.div-pai {
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 200px;
+}
+
+.div-filha {
+    background-color: plum;
+    border: 1px solid salmon;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+
+}

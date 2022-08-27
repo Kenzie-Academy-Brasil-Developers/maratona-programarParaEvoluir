@@ -30,7 +30,7 @@ Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de
 
 ### Fonte
 
-- 'Roboto', sans-serif;
+- 'Nunito', sans-serif;
 
 ### Cores
 
