@@ -45,7 +45,7 @@ Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de
 
 ## Layout
 
-- [Layout Maratona Kenzie => Programar para Evoluir](https://www.figma.com/file/c2jn8Y8XkEOzbLMvOsjRtM/Mario-Memory?node-id=0%3A1)
+- [Layout Maratona Kenzie => Programar para Evoluir](https://www.figma.com/file/8Amj3A1JAde5kzDlms5cr0/Maratona-Programa-para-Evoluir?node-id=0%3A1)
 
 ## LinkedIn das Instrutoras
 - [Luiz Paulo Reis](https://www.linkedin.com/in/luiz-paulo-reis-cardoso/)
